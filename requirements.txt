@@ -1,0 +1,55 @@
+# Core Dependencies
+python-dotenv==1.0.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# PDF Processing
+PyMuPDF==1.23.8
+pdfplumber==0.10.3
+pypdf==3.17.4
+
+# LLM & AI
+openai==1.6.1
+langchain==0.1.0
+langchain-openai==0.0.2
+langchain-community==0.0.10
+tiktoken==0.5.2
+
+# Vector Store & Embeddings
+chromadb==0.4.22
+sentence-transformers==2.2.2
+
+# Database
+sqlalchemy==2.0.25
+alembic==1.13.1
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+openpyxl==3.1.2
+
+# Utilities
+rich==13.7.0
+click==8.1.7
+tqdm==4.66.1
+python-dateutil==2.8.2
+
+# Validation
+jsonschema==4.20.0
+pydantic-core==2.14.6
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+
+# Logging & Monitoring
+loguru==0.7.2
+
+# HTTP & API
+requests==2.31.0
+httpx==0.26.0
+
+# Type Checking
+mypy==1.8.0
+types-requests==2.31.0.20240106
