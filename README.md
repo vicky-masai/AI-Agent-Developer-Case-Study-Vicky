@@ -312,7 +312,7 @@ pytest tests/ -v --cov=src
 
 **Developer**: Vicky Kumar  
 **Email**: [hajipurtech@gmail.com]  
-**GitHub**: [https://github.com/[your-username]/AI-Agent-Developer-Case-Study-Vicky  ](https://github.com/vicky-masai/AI-Agent-Developer-Case-Study-Vicky)
+**GitHub**: [https://github.com/vicky-masai/AI-Agent-Developer-Case-Study-Vicky](https://github.com/vicky-masai/AI-Agent-Developer-Case-Study-Vicky)
 **Date**: December 26, 2025  
 
 ---
