@@ -311,8 +311,8 @@ pytest tests/ -v --cov=src
 ## 📞 Contact
 
 **Developer**: Vicky Kumar  
-**Email**: [your-email@example.com]  
-**GitHub**: https://github.com/[your-username]/AI-Agent-Developer-Case-Study-Vicky  
+**Email**: [hajipurtech@gmail.com]  
+**GitHub**: [https://github.com/[your-username]/AI-Agent-Developer-Case-Study-Vicky  ](https://github.com/vicky-masai/AI-Agent-Developer-Case-Study-Vicky)
 **Date**: December 26, 2025  
 
 ---
